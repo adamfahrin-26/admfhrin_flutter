@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "234931871933",
+    "firebase_url": "https://assessment3-adam-fahrin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assessment3-adam-fahrin",
+    "storage_bucket": "assessment3-adam-fahrin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234931871933:android:89f4ed4b56d2874eff57d4",
+        "android_client_info": {
+          "package_name": "com.example.jm26_4a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2KskZQxGOH84kNFajGII_EQ-11b38FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
